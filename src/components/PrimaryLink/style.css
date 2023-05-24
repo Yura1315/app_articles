@@ -1,0 +1,9 @@
+.primary-link {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.primary-link.active {
+    color: var(--bs-link-color);
+}
